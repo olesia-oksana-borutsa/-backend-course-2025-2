@@ -1,0 +1,1 @@
+course://web.backend?name="Олеся-Оксана Боруца"&group="ФЕІ-21"&subgroup="підгрупа 1"#olesia-oksana-borutsa
