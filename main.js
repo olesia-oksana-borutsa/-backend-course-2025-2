@@ -7,8 +7,10 @@ const base = "https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange";
 //url for first
 const url=new URL(base);
 url.search = new URLSearchParams ({
+    start: date_from,
+ end: date_to,
     valcode: currency,
-    date: date_from
+  
 });
 url.search +="&json";
 console.log("URL для запиту:", url.toString());
