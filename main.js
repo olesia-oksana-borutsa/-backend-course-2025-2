@@ -1,16 +1,22 @@
 const { URL, URLSearchParams } = require('url');
 
+
 const currency = "USD";
 const date_from = "20220707";
-const date_to = "20220719";
+const date_to = "20220719"; 
 
-const base = "https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange";
+
+const base = "https://bank.gov.ua/NBU_Exchange/exchange_site";
+
+
 const url = new URL(base);
-
-
 url.search = new URLSearchParams({
-  valcode: currency,
-  date: date_from
+ start: date_from,
+    end: date_to,
+    valcode: currency,
+    //sort: "exchangedate",
+   // order: "desc",
+
 }).toString() + "&json";
 
 console.log("URL для запиту:", url.toString());
