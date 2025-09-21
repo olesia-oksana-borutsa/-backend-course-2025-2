@@ -1,14 +1,2 @@
 course://web.backend?name=%22%D0%9E%D0%BB%D0%B5%D1%81%D1%8F-%D0%9E%D0%BA%D1%81%D0%B0%D0%BD%D0%B0%20%D0%91%D0%BE%D1%80%D1%83%D1%86%D0%B0%22&group=%22%D0%A4%D0%95%D0%86-21%22&subgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%201%22#olesia-oksana-borutsa%0D%0A
-https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=USD&date=20220707&json
-https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=USD&date=20220708&json
-https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=USD&date=20220709&json
-https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=USD&date=20220710&json
-https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=USD&date=20220711&json
-https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=USD&date=20220712&json
-https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=USD&date=20220713&json
-https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=USD&date=20220714&json
-https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=USD&date=20220715&json
-https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=USD&date=20220716&json
-https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=USD&date=20220717&json
-https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=USD&date=20220718&json
-https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=USD&date=20220719&json
+https://bank.gov.ua/NBU_Exchange/exchange_site?start=20220707&end=20220719&valcode=USD&json
